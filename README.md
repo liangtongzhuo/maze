@@ -1,5 +1,5 @@
 # maze
-JavaScript 自动生成迷宫
+JavaScript 自动生成迷宫，打开终端可以看见一个二进制的迷宫
 
 ## 思路
 
