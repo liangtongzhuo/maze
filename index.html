@@ -56,7 +56,7 @@
                     let row = Array(this.width).fill(0)
                     this.map.push(row)
                 }
-                // 设置迷宫开始点-结束点
+                // 设置迷宫开始点
                 this.map[this.startPoint.y][this.startPoint.x] = 1
                 // 记录走过的点
                 this.points.push(Object.assign({}, this.startPoint))
